@@ -1,2 +1,2 @@
-# Portofolio-
-Repository ini digunakan untuk menyimpan asset asset dari code HTML, CSS, JS yang digunakan untuk menjalankan Website Portofolio tersebut.
+# Portofolio
+respository diisi dengan asset website profile yang sedang saya develop. 
